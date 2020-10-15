@@ -39,7 +39,7 @@ public class dbwBasePageTest extends WebDemoBase {
 	@BeforeSuite //1
 	public static void BeforeSuit() {
 		// ****** Precondition  *******
-		System.out.println("Modified Apal 10.15  **** BeforeSuit ****  ");
+		System.out.println("Modified Apal ****3:02PM  **** BeforeSuit ****  ");
 		WebDemoBase.init();
 	}
  
