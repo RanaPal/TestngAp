@@ -2,38 +2,38 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12523" started-at="2020-10-15T06:33:38Z" finished-at="2020-10-15T06:33:50Z">
+  <suite name="Default suite" duration-ms="12304" started-at="2020-10-15T18:43:58Z" finished-at="2020-10-15T18:44:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12523" started-at="2020-10-15T06:33:38Z" finished-at="2020-10-15T06:33:50Z">
+    <test name="Default test" duration-ms="12304" started-at="2020-10-15T18:43:58Z" finished-at="2020-10-15T18:44:10Z">
       <class name="com.dbs.test.dbwLoginPageTest">
-        <test-method status="PASS" signature="setToLoginPage()[pri:2, instance:com.dbs.test.dbwLoginPageTest@6500df86]" name="setToLoginPage" duration-ms="499" started-at="2020-10-15T06:33:39Z" description="Navigate to Login Page" finished-at="2020-10-15T06:33:40Z">
+        <test-method status="PASS" signature="setToLoginPage()[pri:2, instance:com.dbs.test.dbwLoginPageTest@6500df86]" name="setToLoginPage" duration-ms="608" started-at="2020-10-15T18:43:59Z" description="Navigate to Login Page" finished-at="2020-10-15T18:44:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setToLoginPage -->
-        <test-method status="PASS" signature="LoginPage()[pri:3, instance:com.dbs.test.dbwLoginPageTest@6500df86]" name="LoginPage" duration-ms="1083" started-at="2020-10-15T06:33:40Z" description="Access Login Page" finished-at="2020-10-15T06:33:41Z">
+        <test-method status="PASS" signature="LoginPage()[pri:3, instance:com.dbs.test.dbwLoginPageTest@6500df86]" name="LoginPage" duration-ms="786" started-at="2020-10-15T18:44:00Z" description="Access Login Page" finished-at="2020-10-15T18:44:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginPage -->
       </class> <!-- com.dbs.test.dbwLoginPageTest -->
       <class name="com.dbs.test.dbwBasePageTest">
-        <test-method status="PASS" signature="BeforeSuit()[pri:0, instance:com.dbs.test.dbwBasePageTest@42dafa95]" name="BeforeSuit" is-config="true" duration-ms="6710" started-at="2020-10-15T06:33:31Z" finished-at="2020-10-15T06:33:38Z">
+        <test-method status="PASS" signature="BeforeSuit()[pri:0, instance:com.dbs.test.dbwBasePageTest@42dafa95]" name="BeforeSuit" is-config="true" duration-ms="6327" started-at="2020-10-15T18:43:51Z" finished-at="2020-10-15T18:43:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuit -->
-        <test-method status="PASS" signature="AfterSuit()[pri:0, instance:com.dbs.test.dbwBasePageTest@42dafa95]" name="AfterSuit" is-config="true" duration-ms="755" started-at="2020-10-15T06:33:50Z" finished-at="2020-10-15T06:33:51Z">
+        <test-method status="PASS" signature="AfterSuit()[pri:0, instance:com.dbs.test.dbwBasePageTest@42dafa95]" name="AfterSuit" is-config="true" duration-ms="731" started-at="2020-10-15T18:44:10Z" finished-at="2020-10-15T18:44:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuit -->
       </class> <!-- com.dbs.test.dbwBasePageTest -->
       <class name="com.dbs.test.dbwOrderCreationTest">
-        <test-method status="PASS" signature="Process()[pri:4, instance:com.dbs.test.dbwOrderCreationTest@402a079c]" name="Process" duration-ms="9082" started-at="2020-10-15T06:33:41Z" description="Create Order Process" finished-at="2020-10-15T06:33:50Z">
+        <test-method status="PASS" signature="Process()[pri:4, instance:com.dbs.test.dbwOrderCreationTest@402a079c]" name="Process" duration-ms="9219" started-at="2020-10-15T18:44:01Z" description="Create Order Process" finished-at="2020-10-15T18:44:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Process -->
       </class> <!-- com.dbs.test.dbwOrderCreationTest -->
       <class name="com.dbs.test.dbwHomePageTest">
-        <test-method status="PASS" signature="Open_DWS_HomePage()[pri:1, instance:com.dbs.test.dbwHomePageTest@59ec2012]" name="Open_DWS_HomePage" duration-ms="1830" started-at="2020-10-15T06:33:38Z" description="Open DWS_HomePage" finished-at="2020-10-15T06:33:39Z">
+        <test-method status="PASS" signature="Open_DWS_HomePage()[pri:1, instance:com.dbs.test.dbwHomePageTest@59ec2012]" name="Open_DWS_HomePage" duration-ms="1664" started-at="2020-10-15T18:43:58Z" description="Open DWS_HomePage" finished-at="2020-10-15T18:43:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Open_DWS_HomePage -->
