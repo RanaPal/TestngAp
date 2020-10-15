@@ -39,7 +39,7 @@ public class dbwBasePageTest extends WebDemoBase {
 	@BeforeSuite //1
 	public static void BeforeSuit() {
 		// ****** Precondition  *******
-		System.out.println("**** BeforeSuit ****  ");
+		System.out.println("Modified 10.15.20 **** BeforeSuit ****  ");
 		WebDemoBase.init();
 	}
  

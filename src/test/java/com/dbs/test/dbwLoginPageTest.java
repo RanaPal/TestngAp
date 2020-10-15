@@ -43,7 +43,8 @@ public class dbwLoginPageTest extends WebDemoBase {
  	@Test(description="Access Login Page",priority=3)
 	public static void LoginPage() {
  		LoginPage loginpage = new  LoginPage(driver);
- 		loginpage.UserLogin(EmailId, PassWord); 
+ 		loginpage.UserLogin(EmailId, PassWord);
+ 		System.out.println("Test git push");
 		}
 
 //

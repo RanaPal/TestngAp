@@ -15,7 +15,7 @@ public class dbwHomePageTest extends WebDemoBase {
 	@Test(description="Open DWS_HomePage",priority=1 ) 
 	public static void Open_DWS_HomePage() {
 		String HpageTitle=OpenUrl(URL);
-	  System.out.println("HOme Page Title : "+ HpageTitle); 
+	  System.out.println("Modified 10.15.20 HOme Page Title : "+ HpageTitle); 
 	}
 	
  
